@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
 }
@@ -7,13 +8,15 @@
     border-bottom: solid 1px lavender;
 }
 
-h1 {
-    font-family: 'Winter beauty script';
-    margin-left: 10px;
+nav {
+    display: flex;
+    width: 150px;
+
 }
 
-nav {
-    width: 35px;
+h1 {
+font-family: 'Winter beauty script';
+    margin-left: 10px;
 }
 
 .cards {
@@ -57,5 +60,10 @@ p {
     flex-wrap: wrap;
     flex-direction: column;
     align-content: center;
+
+}
+
+@media (max-width 576px) {
+
 
 }
