@@ -19,6 +19,7 @@ nav {
 
 .nav-icon {
     width: 30px;
+
 }
 
 .headnav h1 {
@@ -205,6 +206,34 @@ li {
 }
 
 
+/* RESPONSIVE */
+
+/* XS PANTALLAS */
 @media (max-width: 576px) {
+
+}
+
+/* SM PANTALLAS */
+@media (min-width: 576px) and (max-width: 761px){
+
+}
+
+/* MD PANTALLAS */
+@media (min-width: 762px) and (max-width: 991px){
+
+}
+
+/* LG PANTALLAS */
+@media (min-width: 992px) and (max-width: 1199px){
+
+}
+
+/* XL PANTALLAS */
+@media (min-width: 1200px) and (max-width: 1399px){
+
+}
+
+/* XXL PANTALLAS */
+@media (min-width: 1400px){
 
 }
