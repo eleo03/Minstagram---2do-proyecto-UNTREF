@@ -53,6 +53,12 @@ a {
     gap: 0.5rem;
 }
 
+.nicks a {
+    color: black;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
 .minilogo {
     display: flex;
     width: 50px;
