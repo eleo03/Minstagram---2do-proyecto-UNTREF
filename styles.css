@@ -47,6 +47,7 @@ a {
     border: 1px solid lightgrey;
     border-radius: 2%;
     margin: 10px;
+    box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.1);
 }
 
 .nicks {
@@ -186,6 +187,7 @@ li {
     height: 80px;
     width: 80px;
     border-radius: 100%;
+    box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.1);
 }
 
 /*  ----------------- */
@@ -198,11 +200,13 @@ li {
     justify-content: center;
     margin-top: 2rem;
     margin-bottom: 2rem;
+
 }
 
 .feed img {
     height: 250px;
     width: 250px;
+    box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.1);
 }
 
 
